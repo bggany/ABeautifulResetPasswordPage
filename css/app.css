@@ -1,0 +1,49 @@
+.pwd-body{
+	background-color:white;
+}
+
+.pwd-body header{
+	background-color:#347EFF;
+	box-shadow: 0 1px 6px rgba(0,0,0,.117647), 0 1px 4px rgba(0,0,0,.117647);
+}
+.pwd-body header strong{
+	font-family:'ruibofbc0c35f91b061';
+	color:white;
+}
+
+.pwd-body .container{
+	width:15%;
+	text-align:center;
+	margin:0 auto;
+}
+
+.pwd-body .container title{
+    font-size: 22px;
+    color: #31393F;
+    display: inline-block;
+    margin-bottom: 25px;
+    padding-top:10px;
+}
+
+.pwd-body .container desc{
+	display: block;
+    font-size: 14px;
+	margin-bottom: 10px;
+    color: #31393F;
+    width: 100%;
+}
+
+.pwd-body .container desc+desc{
+    margin-bottom:10px;
+}
+
+.pwd-body .container input{
+	padding:10px 25px;
+	font-size:13px;
+	text-align:center;
+}
+
+.pwd-body .container .errorDiv input{
+	text-align:center;
+/* 	color:#dd514c; */
+}
